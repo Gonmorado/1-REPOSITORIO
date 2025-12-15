@@ -8,3 +8,5 @@
     <h2>Hola Noelia</h2>
 </body>
 </html>
+
+Nuestro fichero es el bueno, no nos gustan los conflictos
