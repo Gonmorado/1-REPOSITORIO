@@ -9,4 +9,8 @@
 </body>
 </html>
 
+<<<<<<< HEAD
 Nuestro fichero es el bueno, no nos gustan los conflictos
+=======
+Estamos creando un conflicto
+>>>>>>> 41574ac3e0bcaf386361e2fddb4ac451fd1f5088
